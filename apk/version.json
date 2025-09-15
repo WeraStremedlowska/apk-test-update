@@ -1,0 +1,8 @@
+{
+  "version": "1.2.3",
+  "changelog": [
+    "Added new feature X",
+    "Improved performance of Y",
+    "Fixed bug in Z"
+  ]
+}
