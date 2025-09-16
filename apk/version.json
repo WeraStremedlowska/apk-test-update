@@ -1,8 +1,19 @@
 {
-  "version": "1.0.45(12)",
-  "changelog": [
-    "Added new feature X",
-    "Improved performance of Y",
-    "Fixed bug in Z"
-  ]
+  "windows": {
+    "version": "1.0.45(12)",
+    "changelog": [
+      "Added new feature X",
+      "Improved performance of Y",
+      "Fixed bug in Z"
+    ],
+    "url": "https://example.com/download/windows/app-1.0.45.exe"
+  },
+  "macos": {
+    "version": "1.0.44(8)",
+    "changelog": [
+      "Optimized for M1",
+      "Updated security"
+    ],
+    "url": "https://example.com/download/macos/app-1.0.44.dmg"
+  }
 }
