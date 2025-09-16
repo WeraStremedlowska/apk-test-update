@@ -9,7 +9,7 @@
     "url": "https://example.com/download/windows/app-1.0.45.exe"
   },
   "macos": {
-    "version": "1.0.44(8)",
+    "version": "1.0.5",
     "changelog": [
       "Optimized for M1",
       "Updated security"
